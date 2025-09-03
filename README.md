@@ -2,14 +2,14 @@
 
 This app will remove:
 
-## Directories
+### Directories
 
 - cache
 - cachestr
 - onlinethumbnailcache
 
 
-## Files
+### Files
 
 - avatarcache.package
 - localsimtexturecache.package
@@ -18,6 +18,7 @@ This app will remove:
 - lastCrash_340379473094732.txt (example)
 - lastException_40574375943.txt (example)
 
+------
 
 ## Run the app
 
