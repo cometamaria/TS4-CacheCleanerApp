@@ -15,8 +15,8 @@ This app will remove:
 - localsimtexturecache.package
 - localthumbcache.package
 
-- lastCrash_340379473094732.txt
-- lastException_40574375943.txt
+- lastCrash_340379473094732.txt (example)
+- lastException_40574375943.txt (example)
 
 
 ## Run the app
