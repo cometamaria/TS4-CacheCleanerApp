@@ -1,19 +1,26 @@
 # TS4-CacheCleanApp
 
-Removes:
+This app will remove:
 
-Directory
+## Directories
 
-cache
-cachestr
-onlinethumbnailcache
+- cache
+- cachestr
+- onlinethumbnailcache
 
 
-File
+## Files
 
-avatarcache.package
-localsimtexturecache.package
-localthumbcache.package
+- avatarcache.package
+- localsimtexturecache.package
+- localthumbcache.package
 
-lastCrash_340379473094732.txt
-lastException_40574375943.txt
+- lastCrash_340379473094732.txt
+- lastException_40574375943.txt
+
+
+## Run the app
+
+On the terminal with the folder *TS4-CacheCleanApp* selected, type: `python .\ts4_cachecleanapp.py`
+
+The app must be placed in `\Documents\GitHub\TS4-CacheCleanApp` to work for now.
