@@ -1,0 +1,14 @@
+{
+    "files": [
+        "avatarcache.package",
+        "localsimtexturecache.package",
+        "localthumbcache.package",
+        "lastCrash_*",
+        "lastException_*"
+    ],
+    "folders": [
+        "cache",
+        "cachestr",
+        "onlinethumbnailcache"
+    ]
+}
