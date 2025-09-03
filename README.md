@@ -1,4 +1,4 @@
-# TS4-CacheCleanApp
+# TS4-CacheCleanerApp
 
 This app will remove:
 
